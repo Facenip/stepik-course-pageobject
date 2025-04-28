@@ -31,4 +31,4 @@ pip-wheel-metadata/
 dist/
 build/
 
-.idea/
+.idea
